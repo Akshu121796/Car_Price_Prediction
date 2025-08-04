@@ -1,6 +1,4 @@
 # Car_Price_Prediction
-Here's a sample `README.md` for your **Car Price Prediction** machine learning project based on the uploaded notebook:
-
 ---
 
 # 🚗 Car Price Prediction - ML Project
